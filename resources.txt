@@ -1,0 +1,7 @@
+GIT Flow
+
+main (Produção)
+        hotfix (correção imediata)
+    dev (Desenvolvimento)
+        feature (temporária)
+            release (temporária)
